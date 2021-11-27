@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: slateblue;
+}
+th{
+    font-weight: bold;
+}
+body{
+    display: block;
+    margin: 8px;
+}
+table{
+    border-spacing: 5px;
+    border-collapse: separate;
+}
+table, th, td {
+    border: 1px solid slateblue;
+}
