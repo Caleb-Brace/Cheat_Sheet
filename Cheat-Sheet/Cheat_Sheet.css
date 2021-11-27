@@ -19,3 +19,13 @@ table{
 table, th, td {
     border: 1px solid slateblue;
 }
+thead{
+    background-color: slateblue;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.tag{
+    background-color: beige;
+}
